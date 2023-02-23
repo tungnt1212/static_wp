@@ -1,0 +1,169 @@
+.top-content {
+    background: #fafafa;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.icons-container img {
+    width: 30px;
+    margin-right: 1rem;
+}
+
+.info-container {
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.info-card {
+    border-right: 1px solid #ccc;
+    padding: 0 2rem;
+    flex-grow: 1;
+}
+
+.info-card h4 {
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 2.125rem;
+    white-space: nowrap;
+}
+
+.info-card p {
+    font-size: 1.125rem;
+    font-weight: 300;
+}
+
+.info-card:last-child {
+    border-right: none;
+}
+
+.tab-container {
+    padding-bottom: 20rem;
+}
+
+.tab-nav {
+    display: flex;
+    margin-top: -45px;
+    padding-bottom: 0.5rem;
+}
+
+.tab-nav .tab-item {
+    background: white;
+    color: var(--primary);
+    padding: 0.5rem 5rem;
+    margin-right: 0.25rem;
+    border-radius: 0.25rem;
+    box-shadow: 0 1px 4px rgb(0 0 0 / 30%);
+    text-decoration: none;
+}
+
+.tab-nav .tab-item.active {
+    background: var(--primary);
+    color: white;
+}
+
+.tab-content {
+    padding-top: 4rem;
+}
+
+.access-button {
+    border-radius: 24px !important;
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+}
+
+.data-table {
+    font-size: 14px;
+}
+
+.data-table thead th,
+.data-table tbody tr:first-child td {
+    border: 0 !important;
+}
+
+.data-table thead th {
+    font-weight: 400;
+}
+
+.data-table tbody {
+    height: 200px;
+    overflow: auto;
+}
+
+.technical-info-content, .docs-content {
+    padding-bottom: 30rem;
+}
+
+.research-wrapper, .publication-wrapper {
+    margin-top: 5rem;
+}
+
+.research-card {
+    margin: 0 3rem;
+    background-color: rgb(252, 252, 252);
+    padding: 3rem 1rem 1rem 2rem;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+    max-width: 275px;
+}
+
+.research-card:first-child {
+    margin-left: 0;
+}
+
+.research-card h6 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+}
+
+.research-card p {
+    flex: 1;
+}
+
+.arrow-icon {
+    width: 2rem;
+}
+
+.publication-list b {
+    font-weight: 500;
+}
+
+.products-table {
+    min-width: 750px;
+}
+
+.products-table thead {
+    background: #fafafa;
+}
+
+@media screen and (max-width: 1200px) {
+    .info-container .info-card {
+        margin-bottom: 1rem;
+        width: 50%;
+    }
+
+    .info-container .info-card:nth-child(2n) {
+        border-right: 0;
+    }
+
+    .tab-nav .tab-item {
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+    }
+
+    .research-card {
+        margin-left: 1rem !important;
+        margin-right: 1rem;
+        margin-bottom: 1.5rem;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .technical-info-image {
+        width: 650px !important;
+    }
+}

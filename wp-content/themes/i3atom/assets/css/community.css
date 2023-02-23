@@ -1,0 +1,37 @@
+.community-card {
+    margin-bottom: 4rem;
+    max-width: 200px;
+    margin: 0 auto;
+}
+
+
+.update-card {
+    display: flex;
+    flex-direction: column;
+    border-radius: 8px;
+    box-shadow: 0 0 10px 4px #3333;
+    height: 100%;
+    margin: 0 20px;
+}
+
+.update-card .content {
+    padding: 1.5rem 4rem 2rem 1.5rem;
+}
+
+.update-card .title {
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 500;
+}
+
+.update-card .image-wrapper {
+    height: 220px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    overflow: hidden;
+}
+
+.arrow-icon {
+    width: 1rem;
+}

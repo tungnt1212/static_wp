@@ -1,0 +1,50 @@
+section {
+	padding:  6rem 1rem;
+}
+
+section .header {
+	max-width: 800px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+section .content img {
+	width: 100%;
+	height:  auto;
+}
+
+.section1 .header span {
+	font-weight: 100;
+}
+
+.section2 .image-wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	height: 70px;
+	margin-bottom: 1rem;
+}
+
+.section2 .image-wrapper img {
+	height: 100%;
+	width:  auto;
+}
+
+.section2 .content {
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+.section2 .image-wrapper.small img {
+	height: 80%;
+}
+
+@media screen and (max-width: 768px) {
+	.section2 .border-right {
+		border: none;
+	}
+
+	.section2 .image-wrapper {
+		height: 50px;
+	}
+}

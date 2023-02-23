@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -7,11 +8,11 @@
 	>
 <channel>
 	<title>
-	Comments for BCT Landing	</title>
-	<atom:link href="http://localhost/bct_l3atom_landing/comments/feed/?simply_static_page=7" rel="self" type="application/rss+xml" />
+	Comments for BCT L3ATOM	</title>
+	<atom:link href="http://localhost/bct_l3atom_landing/comments/feed/?simply_static_page=74" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Thu, 23 Feb 2023 12:46:36 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Feb 2023 07:00:26 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -20,10 +21,10 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>/2023/02/23/hello-world/#comment-1</link>
+		<link>/2023/02/09/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
-		<pubDate>Thu, 23 Feb 2023 12:46:36 +0000</pubDate>
+		<pubDate>Thu, 09 Feb 2023 07:00:26 +0000</pubDate>
 		<guid isPermaLink="false">/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
