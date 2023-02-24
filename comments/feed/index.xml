@@ -8,11 +8,11 @@
 	>
 <channel>
 	<title>
-	Comments for BCT L3ATOM	</title>
-	<atom:link href="http://localhost/bct_l3atom_landing/comments/feed/?simply_static_page=74" rel="self" type="application/rss+xml" />
-	<link></link>
+	Comments for User&#039;s blog	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
-	<lastBuildDate>Thu, 09 Feb 2023 07:00:26 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Feb 2023 16:12:27 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -24,8 +24,8 @@
 		<link>/2023/02/09/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
-		<pubDate>Thu, 09 Feb 2023 07:00:26 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<pubDate>Thu, 09 Feb 2023 16:12:27 +0000</pubDate>
+		<guid isPermaLink="false">http://127.0.0.1/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.

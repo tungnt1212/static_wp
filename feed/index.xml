@@ -9,11 +9,11 @@
 	>
 
 <channel>
-	<title>BCT L3ATOM</title>
-	<atom:link href="http://localhost/bct_l3atom_landing/feed/?simply_static_page=73" rel="self" type="application/rss+xml" />
-	<link></link>
+	<title>User&#039;s blog</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
-	<lastBuildDate>Thu, 09 Feb 2023 07:00:26 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Feb 2023 16:12:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -25,10 +25,10 @@
 		<link>/2023/02/09/hello-world/</link>
 					<comments>/2023/02/09/hello-world/#comments</comments>
 		
-		<dc:creator><![CDATA[tungnt1293]]></dc:creator>
-		<pubDate>Thu, 09 Feb 2023 07:00:26 +0000</pubDate>
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Thu, 09 Feb 2023 16:12:27 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">http://127.0.0.1/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[

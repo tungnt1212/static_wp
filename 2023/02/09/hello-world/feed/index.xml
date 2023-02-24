@@ -9,10 +9,10 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="http://localhost/bct_l3atom_landing/2023/02/09/hello-world/feed/?simply_static_page=138" rel="self" type="application/rss+xml" />
+	<atom:link href="/2023/02/09/hello-world/feed/" rel="self" type="application/rss+xml" />
 	<link>/2023/02/09/hello-world/</link>
 	<description></description>
-	<lastBuildDate>Thu, 09 Feb 2023 07:00:26 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Feb 2023 16:12:27 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -24,8 +24,8 @@
 		<link>/2023/02/09/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
-		<pubDate>Thu, 09 Feb 2023 07:00:26 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<pubDate>Thu, 09 Feb 2023 16:12:27 +0000</pubDate>
+		<guid isPermaLink="false">http://127.0.0.1/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
