@@ -1,11 +1,17 @@
 {
+    "site": {
+      "id": "375bc723-2f9a-44e0-8f26-3b10cbc701ca",
+      "team": "muddy-dust-3732",
+      "platform": "ipfs",
+      "source": "ipfs",
+      "name": "muddy-dust-3732"
+    },
     "build": {
-        "image": "node:alpine",
-        "command": "npm install && npm run build && echo $SOME_ENV",
-        "publicDir": "build",
-        "baseDir": "frontend",
-        "environment": {
-        "SOME_ENV": "Build finished!"
-        }
+      "baseDir": "",
+      "publicDir": "build",
+      "rootDir": "",
+      "environment": {
+         "REACT_APP_ADOPTION_CONTRACT": "ADOPTION_CONTRACT_ADDRESS"
+      }
     }
-}
+  }
