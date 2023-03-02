@@ -1,0 +1,43 @@
+.exchange-list-wrapper {
+    margin-top: 3rem;
+    margin-bottom: 5rem;
+}
+
+.exchange-list-wrapper .exchange-list-title {
+    font-size: 24px;
+    display: flex;
+    align-items: baseline;
+    padding-bottom: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.exchange-list-wrapper .exchange-list-title b {
+    font-size: 12px;
+    margin-left: 1rem;
+}
+
+.exchange-list-wrapper table thead th {
+    padding-bottom: 0.5rem;
+}
+
+.exchange-list-wrapper table tbody td {
+    padding: 1rem 0;
+}
+
+.exchange-list-wrapper .icon-container {
+    width: 25px;
+    margin-right: 1rem;
+}
+
+.exchange-list-wrapper table .status .dot {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+}
+
+@media screen and (max-width: 768px) {
+    .exchange-list-wrapper table {
+        font-size: 12px;
+        min-width: 500px;
+    }
+}
